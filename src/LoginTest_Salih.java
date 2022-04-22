@@ -9,5 +9,7 @@ public class LoginTest_Salih {
         
          System.out.println("First change remote");
 
+        System.out.println("AC3 is completed and project updated");
+
     }
 }
