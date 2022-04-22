@@ -5,5 +5,7 @@ public class LoginTest_Salih {
 
         System.out.println("AC1 Test is passed");
 
+        System.out.println("AC2 Test is passed");
+
     }
 }
